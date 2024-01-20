@@ -8,10 +8,10 @@ import {
   FaJs,
   FaReact,
   FaWordpress,
-  FaPython,
   FaDataBase,
   FaPhp,
   FaTerminal,
+  FaPython,
 } from "react-icons/fa";
 import {
   SiAdobephotoshop,
