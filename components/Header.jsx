@@ -9,15 +9,7 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
           {/* logo */}
-          <Link href="/">
-            <Image
-              src=""
-              alt="logo"
-              width={220}
-              height={48}
-              priority
-            />
-          </Link>
+          
 
           {/* socials */}
           <Socials />
