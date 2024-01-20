@@ -32,10 +32,10 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Passionate about securing the digital frontier, I am driven by an unwavering commitment to information security.
+            Eager to breathe life into my cybersecurity aspirations, I've chosen Russia for its rich history of technological innovation and its renowned expertise ,
+            especially in this field. I want as I want to breathe . Therefore I'll do whatever it takes to turn that dream into reality .
+            Ура! 
           </motion.p>
 
           {/* btn */}
