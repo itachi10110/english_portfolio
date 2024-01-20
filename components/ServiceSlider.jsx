@@ -1,10 +1,11 @@
 import {
   RxCrop,
-  RxPencil2,
+  RxLockOpen2,
   RxDesktop,
-  RxReader,
+  RxLockOpen1,
   RxRocket,
   RxArrowTopRight,
+  RxLinkBreak2,
 } from "react-icons/rx";
 import { FreeMode, Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -15,29 +16,29 @@ import "swiper/css/pagination";
 
 const serviceData = [
   {
-    Icon: RxCrop,
-    title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxLockOpen2,
+    title: "Ethical Hacking",
+    description: "Ethical hacking protects computer systems by finding and fixing security weaknesses.",
   },
   {
-    Icon: RxPencil2,
-    title: "Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxLockOpen1,
+    title: "Encryption",
+    description: "Encrypt means Protect , One of the most important parts in Information Security.",
   },
   {
     Icon: RxDesktop,
-    title: "Development",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Coding",
+    description: "Coding is like giving instructions to a computer using a special language to make it do what you want.",
   },
   {
-    Icon: RxReader,
-    title: "Copywriting",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxLinkBreak2,
+    title: "Problem Solving",
+    description: "The Best Developer is The Best Problem-Solver .",
   },
   {
-    Icon: RxRocket,
-    title: "SEO",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxCrop,
+    title: "Design",
+    description: "Coding and Design are the best duo.",
   },
 ];
 
