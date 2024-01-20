@@ -2,7 +2,7 @@ import {
   RxCrop,
   RxLockOpen2,
   RxDesktop,
-  RxLockOpen1,
+  RxLockClosed,
   RxRocket,
   RxArrowTopRight,
   RxLinkBreak2,
@@ -21,9 +21,9 @@ const serviceData = [
     description: "Ethical hacking protects computer systems by finding and fixing security weaknesses.",
   },
   {
-    Icon: RxLockOpen1,
+    Icon: RxLockClosed,
     title: "Encryption",
-    description: "Encrypt means Protect , One of the most important parts in Information Security.",
+    description: "Encrypt means Protect , Converting sensitive data to unreadable codes . One of the most important parts in Information Security.",
   },
   {
     Icon: RxDesktop,
