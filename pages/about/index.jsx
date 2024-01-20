@@ -74,8 +74,8 @@ export const aboutData = [
         stage: "2018",
       },
       {
-        title: "Getting the ambition of studying Information Security in Russia",
-        stage: "2021",
+        title: "Dreaming about Studying in Russia",
+        stage: "Since 2021",
       },
     ],
   },
@@ -109,7 +109,7 @@ const About = () => {
             exit="hidden"
             className="h2"
           >
-            Information Security <span className="text-accent">Enthusiast</span> Dreaming of studying in Russia .
+             Dreaming of studying in <span className="text-accent">Russia</span>
           </motion.h2>
           <motion.p
             variants={fadeIn("right", 0.4)}
@@ -117,7 +117,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            9 years ago, I discovered my skills at dealing with phones and computers at a young age. Few Years Later, I realised that I need to improve my skills with Hard Work , to be a Talented Hardworker, 
+            9 years ago, I discovered my skills at dealing with phones and computers at a young age. Few Years Later, I realised that I need to improve my skills with Hard Work , to be a Talented Hardworker.  
             Now I have a goal , which is studying in a country that I am obsessed with its history and acheivements , Mother Russia. 
           </motion.p>
 
