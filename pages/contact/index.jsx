@@ -19,7 +19,7 @@ const Contact = () => {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: new URLSearchParams(formData).toString(),
     })
-      .then(() => alert("Thank you. I will get back to you ASAP."))
+      .then(() => alert("Thank you. I'd be glad If you contacted me via e-mail. [salahlazouach@mail.ru]"))
       .catch((error) => console.log(error))
       .finally(() => setIsLoading(false));
   };
