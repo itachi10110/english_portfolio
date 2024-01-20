@@ -103,10 +103,10 @@ const WorkSlider = () => {
                       className="flex items-center gap-x-2 text-[13px] tracking-[0.2em]"
                     >
                       {/* title part 1 */}
-                      <div className="delay-100">LIVE</div>
+                      <div className="delay-100">to Zoom</div>
                       {/* title part 2 */}
                       <div className="translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150">
-                        PROJECT
+                        Click Here
                       </div>
                       {/* icon */}
                       <div className="text-xl translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150">
