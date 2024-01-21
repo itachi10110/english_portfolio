@@ -206,7 +206,6 @@ const About = () => {
           </div>
         </motion.div>
       </div>
-    </div>
   );
 };
 
