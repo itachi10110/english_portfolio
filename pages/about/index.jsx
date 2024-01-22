@@ -80,14 +80,11 @@ export const aboutData = [
     ],
   },
 ];
-
 const About = () => {
   const [index, setIndex] = useState(0);
 
   return (
     <div className="h-full bg-primary/30 py-32 text-center xl:text-left">
-      <Circles />
-<div className="h-full bg-primary/30 py-32 text-center xl:text-left">
       <Circles />
 
       {/* avatar img */}
@@ -102,7 +99,7 @@ const About = () => {
       </motion.div>
 
       <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6">
-      {/* text */}
+        {/* text */}
         <div className="flex-1 flex flex-col justify-center">
           <motion.h2
             variants={fadeIn("right", 0.2)}
@@ -111,7 +108,7 @@ const About = () => {
             exit="hidden"
             className="h2"
           >
-             Dreaming of studying in <span className="text-accent">Russia</span>
+            Dreaming of studying in <span className="text-accent">Russia</span>
           </motion.h2>
           <motion.p
             variants={fadeIn("right", 0.4)}
@@ -123,7 +120,7 @@ const About = () => {
             Now I have a goal , which is studying in a country that I am obsessed with its history and acheivements , Mother Russia. 
           </motion.p>
 
-          {/* counters */}
+            {/* counters */}
           <motion.div
             variants={fadeIn("right", 0.6)}
             initial="hidden"
@@ -134,7 +131,7 @@ const About = () => {
               {/* experience */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={6} duration={7} />
+                  <CountUp start={0} end={6} duration={9} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Years of Coding.
@@ -144,7 +141,7 @@ const About = () => {
               {/* clients */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={10} duration={7} />
+                  <CountUp start={0} end={10} duration={9} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Certificates I Earned Through Courses.
@@ -154,7 +151,7 @@ const About = () => {
               {/* projects */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={7} duration={7} />
+                  <CountUp start={0} end={7} duration={9} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Coding Languages.
@@ -164,7 +161,7 @@ const About = () => {
               {/* awards */}
               <div className="relative flex-1">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={3} duration={7} />
+                  <CountUp start={0} end={3} duration={9} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Languages I Speak
@@ -173,6 +170,7 @@ const About = () => {
             </div>
           </motion.div>
         </div>
+
 
         {/* info */}
         <motion.div
