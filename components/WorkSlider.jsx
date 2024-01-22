@@ -13,24 +13,24 @@ const workSlides = {
     {
       images: [
         {
-          title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          title: "English",
+          path: "1.png",
+          link: "https://api.busuu.com/anon/certificates/e8de69192b24df9bb3e89818781927b9?",
+        },
+        {
+          title: "Python",
+          path: "2.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/2.png",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "3.jpg",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/3.jpg",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "4.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/4.png",
         },
       ],
     },
@@ -38,23 +38,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "5.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/5.png",
         },
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "6.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/6.png",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "7.png",
+          link: "https://studio.code.org/print_certificates/eyJuYW1lIjoiU2FsYWggTGF6b3VhY2giLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbWFnaW5hYmxlIEZ1dHVyZXMifQ",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "8.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/8.png",
         },
       ],
     },
@@ -103,10 +103,10 @@ const WorkSlider = () => {
                       className="flex items-center gap-x-2 text-[13px] tracking-[0.2em]"
                     >
                       {/* title part 1 */}
-                      <div className="delay-100">to Zoom</div>
+                      <div className="delay-100">Click here</div>
                       {/* title part 2 */}
                       <div className="translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150">
-                        Click Here
+                        to Zoom
                       </div>
                       {/* icon */}
                       <div className="text-xl translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150">
