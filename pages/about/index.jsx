@@ -94,7 +94,7 @@ const About = () => {
       <motion.div
         variants={fadeIn("right", 0.2)}
         initial="hidden"
-        animate="opacity: 0"
+        animate="show"
         exit="hidden"
         className="hidden xl:flex absolute bottom-0 -left-[370px]"
       >
