@@ -48,7 +48,7 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "7.png",
+          path: "7.jpg",
           link: "https://studio.code.org/print_certificates/eyJuYW1lIjoiU2FsYWggTGF6b3VhY2giLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbWFnaW5hYmxlIEZ1dHVyZXMifQ",
         },
         {
