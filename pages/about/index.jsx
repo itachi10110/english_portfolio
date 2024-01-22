@@ -87,6 +87,7 @@ const About = () => {
   return (
     <div className="h-full bg-primary/30 py-32 text-center xl:text-left">
       <Circles />
+      <div>  </div>
         {/* text */}
         <div className="flex-1 flex flex-col justify-center">
           <motion.h2
