@@ -87,8 +87,22 @@ const About = () => {
   return (
     <div className="h-full bg-primary/30 py-32 text-center xl:text-left">
       <Circles />
-      <div>  </div>
-        {/* text */}
+<div className="h-full bg-primary/30 py-32 text-center xl:text-left">
+      <Circles />
+
+      {/* avatar img */}
+      <motion.div
+        variants={fadeIn("right", 0.2)}
+        initial="hidden"
+        animate="opacity: 0"
+        exit="hidden"
+        className="hidden xl:flex absolute bottom-0 -left-[370px]"
+      >
+        <Avatar />
+      </motion.div>
+
+      <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6">
+      {/* text */}
         <div className="flex-1 flex flex-col justify-center">
           <motion.h2
             variants={fadeIn("right", 0.2)}
@@ -207,6 +221,7 @@ const About = () => {
           </div>
         </motion.div>
       </div>
+  </div>
   );
 };
 
