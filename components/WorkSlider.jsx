@@ -82,6 +82,111 @@ const workSlides = {
         },
       ],
     },
+    {
+      images: [
+        {
+          title: "Certificate 13",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+13",
+          link: "https://example.com/certificate13",
+        },
+        {
+          title: "Certificate 14",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+14",
+          link: "https://example.com/certificate14",
+        },
+        {
+          title: "Certificate 15",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+15",
+          link: "https://example.com/certificate15",
+        },
+        {
+          title: "Certificate 16",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+16",
+          link: "https://example.com/certificate16",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "Certificate 17",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+17",
+          link: "https://example.com/certificate17",
+        },
+        {
+          title: "Certificate 18",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+18",
+          link: "https://example.com/certificate18",
+        },
+        {
+          title: "Certificate 19",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+19",
+          link: "https://example.com/certificate19",
+        },
+        {
+          title: "Certificate 20",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+20",
+          link: "https://example.com/certificate20",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "Certificate 21",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+21",
+          link: "https://example.com/certificate21",
+        },
+        {
+          title: "Certificate 22",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+22",
+          link: "https://example.com/certificate22",
+        },
+        {
+          title: "Certificate 23",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+23",
+          link: "https://example.com/certificate23",
+        },
+        {
+          title: "Certificate 24",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+24",
+          link: "https://example.com/certificate24",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "Certificate 25",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+25",
+          link: "https://example.com/certificate25",
+        },
+        {
+          title: "Certificate 26",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+26",
+          link: "https://example.com/certificate26",
+        },
+        {
+          title: "Certificate 27",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+27",
+          link: "https://example.com/certificate27",
+        },
+        {
+          title: "Certificate 28",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+28",
+          link: "https://example.com/certificate28",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "Certificate 29",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+29",
+          link: "https://example.com/certificate29",
+        },
+      ],
+    },
   ],
 };
 
