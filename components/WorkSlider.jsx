@@ -150,7 +150,7 @@ const workSlides = {
         {
           title: "Certificate 24",
           path: "22.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/2.png",
+          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/2.png",
         },
       ],
     },
@@ -159,22 +159,22 @@ const workSlides = {
         {
           title: "Certificate 25",
           path: "33.jpg",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/3.jpg",
+          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/3.jpg",
         },
         {
           title: "Certificate 26",
           path: "44.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/4.png",
+          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/4.png",
         },
         {
           title: "Certificate 27",
           path: "55.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/5.png",
+          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/5.png",
         },
         {
           title: "Certificate 28",
           path: "66.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/6.png",
+          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/6.png",
         },
       ],
     },
