@@ -15,11 +15,11 @@ import {
 export const navData = [
   { name: "home", path: "/", Icon: HiHome },
   { name: "about", path: "/about", Icon: HiUser },
-  { name: "Skills", path: "/services", Icon: HiRectangleGroup },
+  { name: "Skills", path: "/skills", Icon: HiRectangleGroup },
   { name: "Certificates", path: "/certificates", Icon: HiViewColumns },
   {
     name: "Quotes",
-    path: "/testimonials",
+    path: "/quotes",
     Icon: HiChatBubbleBottomCenterText,
   },
   {
