@@ -29,7 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Those felt like a trophy when I got them , just like a proof , or even a sign that I can make it one day.
+              Those felt like a trophy when I got them, just like a proof, or even a sign that I can make it one day.
             </motion.p>
           </div>
 
@@ -41,7 +41,8 @@ const Work = () => {
             exit="hidden"
             className="w-full xl:max-w-[65%]"
           >
-            <WorkSlider />
+            {/* Update the WorkSlider component to display 28 certificates */}
+            <WorkSlider numberOfCertificates={28} />
           </motion.div>
         </div>
       </div>
