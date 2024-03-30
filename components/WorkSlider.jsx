@@ -13,48 +13,72 @@ const workSlides = {
     {
       images: [
         {
-          title: "English",
-          path: "11.png",
-          link: "https://api.busuu.com/anon/certificates/e8de69192b24df9bb3e89818781927b9?",
+          title: "Certificate 1",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+1",
+          link: "https://example.com/certificate1",
         },
         {
-          title: "Python",
-          path: "22.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/2.png",
+          title: "Certificate 2",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+2",
+          link: "https://example.com/certificate2",
         },
         {
-          title: "title",
-          path: "33.jpg",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/3.jpg",
+          title: "Certificate 3",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+3",
+          link: "https://example.com/certificate3",
         },
         {
-          title: "title",
-          path: "44.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/4.png",
+          title: "Certificate 4",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+4",
+          link: "https://example.com/certificate4",
         },
       ],
     },
     {
       images: [
         {
-          title: "title",
-          path: "55.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/5.png",
+          title: "Certificate 5",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+5",
+          link: "https://example.com/certificate5",
         },
         {
-          title: "title",
-          path: "66.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/6.png",
+          title: "Certificate 6",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+6",
+          link: "https://example.com/certificate6",
         },
         {
-          title: "title",
-          path: "77.jpg",
-          link: "https://studio.code.org/print_certificates/eyJuYW1lIjoiU2FsYWggTGF6b3VhY2giLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbWFnaW5hYmxlIEZ1dHVyZXMifQ",
+          title: "Certificate 7",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+7",
+          link: "https://example.com/certificate7",
         },
         {
-          title: "title",
-          path: "88.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/8.png",
+          title: "Certificate 8",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+8",
+          link: "https://example.com/certificate8",
+        },
+      ],
+    },
+    {
+      images: [
+        {
+          title: "Certificate 9",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+9",
+          link: "https://example.com/certificate9",
+        },
+        {
+          title: "Certificate 10",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+10",
+          link: "https://example.com/certificate10",
+        },
+        {
+          title: "Certificate 11",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+11",
+          link: "https://example.com/certificate11",
+        },
+        {
+          title: "Certificate 12",
+          path: "https://via.placeholder.com/500x300.png?text=Certificate+12",
+          link: "https://example.com/certificate12",
         },
       ],
     },
