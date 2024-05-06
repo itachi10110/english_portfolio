@@ -66,9 +66,9 @@ const workSlides = {
           link: "https://www.life-global.org/certificate/071e78c2-4b0a-4626-8727-f48a4cf538f6",
         },
         {
-          title: "Certificate 10",
-          path: "p.png",
-          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/pp.png",
+          title: "Certificate 23",
+          path: "11.png",
+          link: "https://api.busuu.com/anon/certificates/e8de69192b24df9bb3e89818781927b9?",
         },
         {
           title: "Certificate 11",
@@ -143,47 +143,14 @@ const workSlides = {
           link: "https://verify.mygreatlearning.com/OMCRHANT",
         },
         {
-          title: "Certificate 23",
-          path: "11.png",
-          link: "https://api.busuu.com/anon/certificates/e8de69192b24df9bb3e89818781927b9?",
-        },
-        {
-          title: "Certificate 24",
-          path: "22.png",
-          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/2.png",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "Certificate 25",
-          path: "33.jpg",
-          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/3.jpg",
-        },
-        {
-          title: "Certificate 26",
-          path: "44.png",
-          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/4.png",
-        },
-        {
-          title: "Certificate 27",
-          path: "55.png",
-          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/5.png",
-        },
-        {
-          title: "Certificate 28",
-          path: "66.png",
-          link: "https://raw.githubusercontent.com/motherrussiaforever/motherrussiaforever/main/6.png",
-        },
-      ],
-    },
-    {
-      images: [
-        {
           title: "Certificate 29",
           path: "77.jpg",
           link: "https://studio.code.org/print_certificates/eyJuYW1lIjoiU2FsYWggTGF6b3VhY2giLCJjb3Vyc2UiOiJob3Vyb2Zjb2RlIiwiZG9ub3IiOiJJbWFnaW5hYmxlIEZ1dHVyZXMifQ",
+        },
+        {
+          title: "Certificate 10",
+          path: "p.png",
+          link: "https://raw.githubusercontent.com/itachi10110/modern-portfolio/main/public/pp.png",
         },
       ],
     },
