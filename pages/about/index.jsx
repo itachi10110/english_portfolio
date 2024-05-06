@@ -18,6 +18,8 @@ import {
   SiAdobexd,
   SiFramer,
   SiNextdotjs,
+  SiCsharp,
+  SiCplusplus,
 } from "react-icons/si";
 
 import Avatar from "../../components/Avatar";
@@ -41,7 +43,7 @@ export const aboutData = [
       },
       {
         title: "General",
-        icons: [ FaPython , FaTerminal ],
+        icons: [ FaPython , SiCplusplus , SiCsharp , FaTerminal ],
       },
     ],
   },
@@ -141,7 +143,7 @@ const About = () => {
               {/* clients */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={29} duration={10} />
+                  <CountUp start={0} end={24} duration={10} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Certificates I Earned Through Courses.
@@ -151,7 +153,7 @@ const About = () => {
               {/* projects */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={7} duration={9} />
+                  <CountUp start={0} end={9} duration={9} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Coding Languages.
