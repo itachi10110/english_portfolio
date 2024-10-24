@@ -8,7 +8,6 @@ import {
   RiGithubLine,
   RiPinterestLine,
   RiTelegramLine,
-  RiVkLine,
   RiWhatsappLine,
 } from "react-icons/ri";
 
@@ -16,7 +15,7 @@ export const socialData = [
   {
     name: "VK",
     link: "https://vk.com/slz123",
-    Icon: RiVkLine,
+    Icon: RiFacebookLine,
   },
   {
     name: "Telegram",
