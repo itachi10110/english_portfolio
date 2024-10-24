@@ -10,12 +10,13 @@ import {
   RiTelegramLine,
   RiWhatsappLine,
 } from "react-icons/ri";
+import { SlSocialVkontakte } from "react-icons/sl";
 
 export const socialData = [
   {
     name: "VK",
     link: "https://vk.com/slz123",
-    Icon: RiFacebookLine,
+    Icon: SlSocialVkontakte,
   },
   {
     name: "Telegram",
