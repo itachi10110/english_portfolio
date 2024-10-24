@@ -7,18 +7,26 @@ import {
   RiDribbbleLine,
   RiGithubLine,
   RiPinterestLine,
+  RiTelegramFill,
+  RiVkFill,
+  RiWhatsappFill,
 } from "react-icons/ri";
 
 export const socialData = [
   {
-    name: "Instagram",
-    link: "https://instagram.com/saleh.lz",
-    Icon: RiInstagramLine,
+    name: "VK",
+    link: "https://vk.com/slz123",
+    Icon: RiVkFill,
   },
   {
-    name: "Facebook",
-    link: "https://facebook.com/saleh.lazouech.39",
-    Icon: RiFacebookLine,
+    name: "Telegram",
+    link: "https://t.me/salehlz",
+    Icon: RiTelegramFill,
+  },
+  {
+    name: "Whatsapp",
+    link: "https://wa.me/79915986105",
+    Icon: RiWhatsappFill,
   },
 ];
 
